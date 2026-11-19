@@ -1,0 +1,324 @@
+{
+    "items": [
+        {
+            "node_id": 3564972011,
+            "store": "books",
+            "name": "Fiction",
+            "name_zh": "小说",
+            "path": "Books > Children's Books > Arts, Music & Photography > Performing Arts > Fiction",
+            "path_zh": "图书 > 童书 > 艺术、音乐与摄影 > 表演艺术 > 小说",
+            "depth": 4,
+            "is_leaf": true,
+            "opportunity_score": 28.1,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/3564972011"
+        },
+        {
+            "node_id": 8298067011,
+            "store": "books",
+            "name": "Fiction",
+            "name_zh": "小说",
+            "path": "Books > Children's Books > Arts, Music & Photography > Art > Fiction",
+            "path_zh": "图书 > 童书 > 艺术、音乐与摄影 > 艺术 > 小说",
+            "depth": 4,
+            "is_leaf": true,
+            "opportunity_score": 20.0,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/8298067011"
+        },
+        {
+            "node_id": 12022,
+            "store": "books",
+            "name": "Fiction",
+            "name_zh": "小说",
+            "path": "Books > Reference > Writing, Research & Publishing Guides > Writing > Fiction",
+            "path_zh": "图书 > 参考工具书 > 写作、研究与出版指南 > 写作 > 小说",
+            "depth": 4,
+            "is_leaf": true,
+            "opportunity_score": 18.8,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/12022"
+        },
+        {
+            "node_id": 17745794011,
+            "store": "books",
+            "name": "Fiction",
+            "name_zh": "小说",
+            "path": "Books > Children's Books > Education & Reference > Math > Fiction",
+            "path_zh": "图书 > 童书 > 教育与参考 > 数学 > 小说",
+            "depth": 4,
+            "is_leaf": true,
+            "opportunity_score": 19.6,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/17745794011"
+        },
+        {
+            "node_id": 17,
+            "store": "books",
+            "name": "Literature & Fiction",
+            "name_zh": "文学与小说",
+            "path": "Books > Literature & Fiction",
+            "path_zh": "图书 > 文学与小说",
+            "depth": 1,
+            "is_leaf": false,
+            "opportunity_score": 23.5,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/17"
+        },
+        {
+            "node_id": 25,
+            "store": "books",
+            "name": "Science Fiction & Fantasy",
+            "name_zh": "科幻与奇幻",
+            "path": "Books > Science Fiction & Fantasy",
+            "path_zh": "图书 > 科幻与奇幻",
+            "depth": 1,
+            "is_leaf": false,
+            "opportunity_score": 25.1,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/25"
+        },
+        {
+            "node_id": 24219998011,
+            "store": "books",
+            "name": "Disability Fiction",
+            "name_zh": "残障题材小说",
+            "path": "Books > Literature & Fiction > Disability Fiction",
+            "path_zh": "图书 > 文学与小说 > 残障题材小说",
+            "depth": 2,
+            "is_leaf": true,
+            "opportunity_score": 18.4,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/24219998011"
+        },
+        {
+            "node_id": 10134,
+            "store": "books",
+            "name": "Genre Fiction",
+            "name_zh": "类型小说",
+            "path": "Books > Literature & Fiction > Genre Fiction",
+            "path_zh": "图书 > 文学与小说 > 类型小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 19.6,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/10134"
+        },
+        {
+            "node_id": 17437,
+            "store": "books",
+            "name": "Historical Fiction",
+            "name_zh": "历史小说",
+            "path": "Books > Teens > Historical Fiction",
+            "path_zh": "图书 > 青少年 > 历史小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 15.0,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/17437"
+        },
+        {
+            "node_id": 10177,
+            "store": "books",
+            "name": "Historical Fiction",
+            "name_zh": "历史小说",
+            "path": "Books > Literature & Fiction > Historical Fiction",
+            "path_zh": "图书 > 文学与小说 > 历史小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 18.4,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/10177"
+        },
+        {
+            "node_id": 2966,
+            "store": "books",
+            "name": "Literature & Fiction",
+            "name_zh": "文学与小说",
+            "path": "Books > Children's Books > Literature & Fiction",
+            "path_zh": "图书 > 童书 > 文学与小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 10.4,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/2966"
+        },
+        {
+            "node_id": 17443,
+            "store": "books",
+            "name": "Literature & Fiction",
+            "name_zh": "文学与小说",
+            "path": "Books > Teens > Literature & Fiction",
+            "path_zh": "图书 > 青少年 > 文学与小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 12.9,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/17443"
+        },
+        {
+            "node_id": 10719,
+            "store": "books",
+            "name": "Literature & Fiction",
+            "name_zh": "文学与小说",
+            "path": "Books > Lesbian, Gay, Bisexual & Transgender Books > Literature & Fiction",
+            "path_zh": "图书 > LGBTQ+ 图书 > 文学与小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 32.2,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/10719"
+        },
+        {
+            "node_id": 12489,
+            "store": "books",
+            "name": "Literature & Fiction",
+            "name_zh": "文学与小说",
+            "path": "Books > Religion & Spirituality > Literature & Fiction",
+            "path_zh": "图书 > 宗教与灵性 > 文学与小说",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 31.0,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/12489"
+        },
+        {
+            "node_id": 7654408011,
+            "store": "books",
+            "name": "Science Fiction",
+            "name_zh": "科幻",
+            "path": "Books > Romance > Science Fiction",
+            "path_zh": "图书 > 言情 > 科幻",
+            "depth": 2,
+            "is_leaf": true,
+            "opportunity_score": 16.1,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/7654408011"
+        },
+        {
+            "node_id": 16272,
+            "store": "books",
+            "name": "Science Fiction",
+            "name_zh": "科幻",
+            "path": "Books > Science Fiction & Fantasy > Science Fiction",
+            "path_zh": "图书 > 科幻与奇幻 > 科幻",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 21.4,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/16272"
+        },
+        {
+            "node_id": 17466,
+            "store": "books",
+            "name": "Science Fiction & Fantasy",
+            "name_zh": "科幻与奇幻",
+            "path": "Books > Teens > Science Fiction & Fantasy",
+            "path_zh": "图书 > 青少年 > 科幻与奇幻",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 31.1,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/17466"
+        },
+        {
+            "node_id": 12038,
+            "store": "books",
+            "name": "Science Fiction & Fantasy",
+            "name_zh": "科幻与奇幻",
+            "path": "Books > Science Fiction & Fantasy > Science Fiction & Fantasy",
+            "path_zh": "图书 > 科幻与奇幻 > 科幻与奇幻",
+            "depth": 2,
+            "is_leaf": true,
+            "opportunity_score": 29.8,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/12038"
+        },
+        {
+            "node_id": 3013,
+            "store": "books",
+            "name": "Science Fiction & Fantasy",
+            "name_zh": "科幻与奇幻",
+            "path": "Books > Children's Books > Science Fiction & Fantasy",
+            "path_zh": "图书 > 童书 > 科幻与奇幻",
+            "depth": 2,
+            "is_leaf": false,
+            "opportunity_score": 14.0,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/3013"
+        },
+        {
+            "node_id": 67372,
+            "store": "books",
+            "name": "Science Fiction & Fantasy",
+            "name_zh": "科幻与奇幻",
+            "path": "Books > Calendars > Science Fiction & Fantasy",
+            "path_zh": "图书 > 日历 > 科幻与奇幻",
+            "depth": 2,
+            "is_leaf": true,
+            "opportunity_score": 26.4,
+            "lists": [
+                "best",
+                "new"
+            ],
+            "amazon_url": "https://www.amazon.com/gp/bestsellers/books/67372"
+        }
+    ]
+}
